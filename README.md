@@ -1,9 +1,9 @@
 # Roman Numerals
 ## Goals
-  [ ] Ruby Review
-    [ ] TDD approach to write code.
-    [ ] Arabic to Old Roman Numeral Conversion
-    [ ] Arabic to Modern Roman Numerals
+  [X] Ruby Review
+    [X] TDD approach to write code.
+    [X] Arabic to Old Roman Numeral Conversion
+    [X] Arabic to Modern Roman Numerals
 
   [ ] Java Script Review
     [ ] TDD approach to write code.
@@ -13,4 +13,4 @@
   [ ] Create WebApp
 
 
-##Summary
+## Summary
